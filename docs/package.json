@@ -1,0 +1,19 @@
+{
+  "name": "Greentree Consulting Documentation",
+  "version": "0.0.1",
+  "description": "Craft CMS How To",
+  "main": "index.js",
+  "authors": {
+    "name": "JayGreentree",
+    "email": "jgreentreevin@gmail.com"
+  },
+  "repository": "jaygreentree/docs/Greentree Consulting Documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
