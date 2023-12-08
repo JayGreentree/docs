@@ -1,16 +1,13 @@
 {
   "name": "docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Craft CMS Documentation",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jaygreentree/docs.git"
-  },
+  "repository": "git+https://github.com/jaygreentree/docs.git",
   "author": "JayGreentree",
   "license": "ISC",
   "bugs": {
