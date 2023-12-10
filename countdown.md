@@ -6,7 +6,7 @@ sidebar: auto
 ---
 # Countdown templates JS, CSS, html, twig
 
-Create a new file in ``templates/_includes`` named ``countdown.twog`` insert the code below inside the file
+Create a new file in ``templates/_includes`` named ``countdown.twig`` insert the code below inside the file
 
 ```javascript
 <script>
