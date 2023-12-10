@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage:
 tagline: Website documentation
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Docs →
+actionLink: /api/
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
